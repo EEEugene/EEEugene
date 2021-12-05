@@ -15,10 +15,10 @@ About ME | 关于我
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=EEEugene&bg_color=22272E&text_color=CDD9E5&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" /> 
 </a>
 
-* [My Resumé ](https://EEEugene.github.io/CV/?language=en)⚡[ 我的简历](https://EEEugene.github.io/CV/?language=cn) 
+* [My Resumé ⚡ 我的简历](https://EEEugene.github.io/CV/?language=cn) 
 * [My Website  ⚡ 我的网站](https://EEEugene.github.io/) 
-* ⚡[ 我的博客](https://blog.csdn.net/EEEugene) 
-* ⚡[ 知乎](https://www.zhihu.com/people/yige-xiang-kao-211de-li-ke-sheng) 
+* [My Blog  ⚡ 我的博客](https://blog.csdn.net/EEEugene) 
+* [My Zhihu⚡ 知乎](https://www.zhihu.com/people/yige-xiang-kao-211de-li-ke-sheng) 
 * [Hacknical](https://hacknical.com/EEEugene/github)
 </details>
 
