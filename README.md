@@ -7,7 +7,7 @@ About ME | 关于我
 
 </a>
 
-🌱 Currently I'm a 2018 undergraduate majoring in **Computer Science** at ***[Zhanjiang University of Science and Technology](https://www.zjkju.edu.cn/), 🇨🇳***. 
+🌱 Currently I'm a 2019 undergraduate majoring in **Computer Science** at ***[Zhanjiang University of Science and Technology](https://www.zjkju.edu.cn/), 🇨🇳***. 
 
 目前我是一名 ***湛江科技学院*** **计算机科学与技术专业** 2019级本科生。
 
