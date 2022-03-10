@@ -29,3 +29,5 @@ About ME | 关于我
 </p>
 
 <h3 align="center">Thanks for visiting my GitHub :-) Wish you have a good time here! 🎉 Please continue your visit ↓</h3>
+
+<h3 align="center">感谢您访问我的GitHub:-）祝您在这里玩得愉快！🎉 请继续访问↓</h3>
