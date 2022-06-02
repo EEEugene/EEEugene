@@ -1,4 +1,4 @@
-<h3 align="center">Hi, and WELCOME <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"/> 你好, 欢迎！</h3>
+<h3 align="center">Hi, and WELCOME <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"/> 你好, 欢迎！</h3>
 
 
 <h3 align="center">
