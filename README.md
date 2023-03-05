@@ -16,7 +16,7 @@ About ME | 关于我
 </a>
 
 * [My Resumé ⚡ 我的简历](https://github.com/EEEugene/blogImg/blob/main/Resume.md)
-* [My Website  ⚡ 我的网站]((https://github.com/EEEugene)) 
+* [My Website  ⚡ 我的网站](https://github.com/EEEugene)
 * [My Blog  ⚡ 我的博客](https://blog.csdn.net/EEEugene) 
 * [My Zhihu⚡ 知乎](https://www.zhihu.com/people/yige-xiang-kao-211de-li-ke-sheng) 
 * [Hacknical](https://hacknical.com/EEEugene/github)
