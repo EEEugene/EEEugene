@@ -7,9 +7,9 @@ About ME | 关于我
 
 </a>
 
-🌱 Currently I'm a 2019 undergraduate majoring in **Computer Science** at ***[Zhanjiang University of Science and Technology](https://www.zjkju.edu.cn/), 🇨🇳***. 
+🌱Currently, I am a C++ SW development engineer specializing in **Qt and Linux Kernel** directions. 
 
-目前我是一名 ***湛江科技学院*** **计算机科学与技术专业** 2019级本科生。
+目前我是一名 C++ 软件开发工程师，专攻**Qt、Linux Kernel** 方向。
 
 <a href="http://EEEugene.github.io/">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=EEEugene&bg_color=22272E&text_color=CDD9E5&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" /> 
