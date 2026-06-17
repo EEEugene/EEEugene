@@ -11,6 +11,8 @@ About ME | 关于我
 
 目前我是一名 C++ 软件开发工程师，专攻**Qt、Linux Kernel** 方向。
 
+wx公众号：程序员Stephen
+
 <a href="http://EEEugene.github.io/">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=EEEugene&bg_color=22272E&text_color=CDD9E5&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" /> 
 </a>
